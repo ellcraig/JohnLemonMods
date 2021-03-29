@@ -1198,3 +1198,67 @@ System memory in use after: 248.8 MB.
 Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2490.
 Total: 9.391656 ms (FindLiveObjects: 0.663145 ms CreateObjectMapping: 0.249523 ms MarkObjects: 4.659766 ms  DeleteObjects: 3.816744 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 341.572292 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(94ff79eae27df4c299882675007a4760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(94ff79eae27df4c299882675007a4760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277182e017a7c1ccc9aab96fd49ef5b9') in 0.009800 seconds
+  Import took 0.016743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009949 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(94ff79eae27df4c299882675007a4760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(94ff79eae27df4c299882675007a4760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277182e017a7c1ccc9aab96fd49ef5b9') in 0.002267 seconds
+  Import took 0.009783 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002437 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.412 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1964 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.1 MB.
+System memory in use after: 249.0 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2492.
+Total: 5.661996 ms (FindLiveObjects: 0.284468 ms CreateObjectMapping: 0.153679 ms MarkObjects: 2.391721 ms  DeleteObjects: 2.830457 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 594.353828 seconds.
+  path: Assets/Scripts/Timer.cs
+  artifactKey: Guid(f16e44d690eca43629eef2a12b6d4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Timer.cs using Guid(f16e44d690eca43629eef2a12b6d4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d590ed0855ea90b48556eb7805ee91') in 0.004588 seconds
+  Import took 0.008620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Scripts/Timer.cs
+  artifactKey: Guid(f16e44d690eca43629eef2a12b6d4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Timer.cs using Guid(f16e44d690eca43629eef2a12b6d4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d590ed0855ea90b48556eb7805ee91') in 0.001248 seconds
+  Import took 0.005755 seconds .
+

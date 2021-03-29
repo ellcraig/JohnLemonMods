@@ -3668,7 +3668,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: 1, y: 5.656854, z: 12.343145}
+  m_LocalPosition: {x: 9, y: 5.6568537, z: -30.956854}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5265,7 +5265,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117791438}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: 1, y: 5.656854, z: 12.343145}
+  m_LocalPosition: {x: 9, y: 5.6568537, z: -30.956854}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1073102298}
@@ -6838,7 +6838,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1446033218}
   - component: {fileID: 1446033217}
-  - component: {fileID: 1446033219}
   m_Layer: 5
   m_Name: FaderCanvas
   m_TagString: Untagged
@@ -6863,7 +6862,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -6888,21 +6887,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1446033219
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1446033216}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f16e44d690eca43629eef2a12b6d4314, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeRemaining: 30
-  timerIsRunning: 1
-  timeText: {fileID: 0}
 --- !u!43 &1464020182
 Mesh:
   m_ObjectHideFlags: 0
@@ -9508,7 +9492,7 @@ PrefabInstance:
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
@@ -9518,7 +9502,7 @@ PrefabInstance:
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 18
+      value: -25
       objectReference: {fileID: 0}
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
