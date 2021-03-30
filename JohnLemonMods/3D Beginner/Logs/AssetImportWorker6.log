@@ -1,0 +1,128 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+/Users/elliotcraig/Desktop/C-300/JohnLemonMods/JohnLemonMods/3D Beginner
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+59918
+Successfully changed project path to: /Users/elliotcraig/Desktop/C-300/JohnLemonMods/JohnLemonMods/3D Beginner
+/Users/elliotcraig/Desktop/C-300/JohnLemonMods/JohnLemonMods/3D Beginner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 57.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/elliotcraig/Desktop/C-300/JohnLemonMods/JohnLemonMods/3D Beginner/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-29 23:40:37.181 Unity[55348:1464641] Color LCD preferred device: AMD Radeon Pro 555 (high power)
+2021-03-29 23:40:37.181 Unity[55348:1464641] Metal devices available: 2
+2021-03-29 23:40:37.181 Unity[55348:1464641] 0: AMD Radeon Pro 555 (high power)
+2021-03-29 23:40:37.181 Unity[55348:1464641] 1: Intel(R) HD Graphics 630 (low power)
+2021-03-29 23:40:37.182 Unity[55348:1464641] Using device AMD Radeon Pro 555 (high power)
+Initializing Metal device caps: AMD Radeon Pro 555
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000638 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 55.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.748 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.587 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2025 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 233.1 MB.
+System memory in use after: 233.2 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 3.302713 ms (FindLiveObjects: 0.355516 ms CreateObjectMapping: 0.131138 ms MarkObjects: 2.585557 ms  DeleteObjects: 0.229076 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_normal.tif
+  artifactKey: Guid(bf07b28422f694d8280009052efbd3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_normal.tif using Guid(bf07b28422f694d8280009052efbd3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46b2e7308cf62ef0c2fdd1daae3cb2b') in 0.266200 seconds
+  Import took 0.270550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Textures/New Materials/Floor
+  artifactKey: Guid(8298625c9dba64b96917b236734541ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Floor using Guid(8298625c9dba64b96917b236734541ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1112b204a99989d041ef21fc66eea330') in 0.001465 seconds
+  Import took 0.005399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_albedo.tif
+  artifactKey: Guid(7ef347a3164574b11acd193f8ee7b345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_albedo.tif using Guid(7ef347a3164574b11acd193f8ee7b345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f69fd9e630427ea53bfc37de58b5f6') in 0.023602 seconds
+  Import took 0.027390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_roughness.tif
+  artifactKey: Guid(475d40b83a5de45468800041bd268eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Floor/TexturesCom_Wood_ParquetVersailles3_1K_roughness.tif using Guid(475d40b83a5de45468800041bd268eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5388e6aab63bcfe9bda0b111f7c6ace2') in 0.025750 seconds
+  Import took 0.030409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Materials/New Material
+  artifactKey: Guid(e647a14d01e9943b6a912009b00572b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material using Guid(e647a14d01e9943b6a912009b00572b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fccdaf28249282fe55f70fa3b172ce7') in 0.000958 seconds
+  Import took 0.004699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Materials/New Material/New Material 1.mat
+  artifactKey: Guid(4cb1e59231a04493dba3705803e3ce18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/New Material 1.mat using Guid(4cb1e59231a04493dba3705803e3ce18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cdf119caeb70a382f2de52ad1c16536') in 0.353251 seconds
+  Import took 0.357562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.099934 seconds.
+  path: Assets/Materials/New Material/Floor.mat
+  artifactKey: Guid(e8bc104a014ae46bc8f7707915021a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/Floor.mat using Guid(e8bc104a014ae46bc8f7707915021a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad39995a251f9e0e8561ba623f87b927') in 0.029187 seconds
+  Import took 0.033987 seconds .
+
