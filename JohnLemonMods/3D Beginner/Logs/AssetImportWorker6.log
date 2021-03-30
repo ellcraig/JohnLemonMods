@@ -206,3 +206,75 @@ Received Import Request.
 Start importing Assets/Materials/New Material/Wall.mat using Guid(4cb1e59231a04493dba3705803e3ce18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630137d588a7b74e4241e92f7df9888d') in 0.289348 seconds
   Import took 0.293988 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 21.482348 seconds.
+  path: Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_albedo.tif
+  artifactKey: Guid(60c3a25cf81184c7382557a4450bd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_albedo.tif using Guid(60c3a25cf81184c7382557a4450bd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5483eb9d39dbf9d336346b2756c72ccc') in 0.029972 seconds
+  Import took 0.034945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_normal.tif
+  artifactKey: Guid(a5dadf18c34424d20a154aca5af51a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_normal.tif using Guid(a5dadf18c34424d20a154aca5af51a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecba08181c87da1658ba494186653b4a') in 0.008341 seconds
+  Import took 0.012721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_metallic.tif
+  artifactKey: Guid(1e57309ab5bc44ef19148512a3b8cc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_metallic.tif using Guid(1e57309ab5bc44ef19148512a3b8cc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75526f6da7266d87815468b7c5e63dc3') in 0.009124 seconds
+  Import took 0.014987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_height.tif
+  artifactKey: Guid(085bfd82ad1ab4336bcf74406f89248c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/TexturesCom_Paint_GoldFake_1K_height.tif using Guid(085bfd82ad1ab4336bcf74406f89248c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd872117669d11262d4db0fa12ad968ab') in 0.008891 seconds
+  Import took 0.013198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.328980 seconds.
+  path: Assets/Materials/New Material/GoldPaint
+  artifactKey: Guid(c2311bbca60e441a8a156772445a2baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/GoldPaint using Guid(c2311bbca60e441a8a156772445a2baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156994fcb734f5c6d80e4bf45a293bde') in 0.002824 seconds
+  Import took 0.006190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010042 seconds.
+  path: Assets/Materials/New Material/GoldPaint
+  artifactKey: Guid(c2311bbca60e441a8a156772445a2baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/GoldPaint using Guid(c2311bbca60e441a8a156772445a2baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156994fcb734f5c6d80e4bf45a293bde') in 0.000789 seconds
+  Import took 0.004576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.121586 seconds.
+  path: Assets/Materials/New Material/GoldPaint/GoldPaint.mat
+  artifactKey: Guid(7752c55b4a779429a8bc5cf5e80ec41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/GoldPaint/GoldPaint.mat using Guid(7752c55b4a779429a8bc5cf5e80ec41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3623115f5e2f30dde8b367e7c68f8502') in 0.021871 seconds
+  Import took 0.026415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.311390 seconds.
+  path: Assets/Materials/New Material/GoldPaint/TexturesCom_Paint_GoldFake_1K_normal.tif
+  artifactKey: Guid(a5dadf18c34424d20a154aca5af51a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/GoldPaint/TexturesCom_Paint_GoldFake_1K_normal.tif using Guid(a5dadf18c34424d20a154aca5af51a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceae58e9e1827965f9bf4ffb78fc70ca') in 0.023563 seconds
+  Import took 0.028037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.875461 seconds.
+  path: Assets/Materials/New Material/GoldPaint/GoldPaint.mat
+  artifactKey: Guid(7752c55b4a779429a8bc5cf5e80ec41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/GoldPaint/GoldPaint.mat using Guid(7752c55b4a779429a8bc5cf5e80ec41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cbc0cbab82f55e2c60aba84b0f72de7') in 0.020083 seconds
+  Import took 0.024426 seconds .
+
