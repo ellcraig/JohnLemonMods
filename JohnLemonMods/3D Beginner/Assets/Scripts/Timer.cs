@@ -39,7 +39,7 @@ public class Timer : MonoBehaviour
             }
             else
             {
-                Debug.Log("Time has run out!");
+                Debug.Log("Time has run out! Try Again!");
                 timeRemaining = 0;
                 timerIsRunning = false;
                 EndLevel (exitBackgroundImageCanvasGroup, false, exitAudio);
@@ -48,26 +48,7 @@ public class Timer : MonoBehaviour
     }
     void EndLevel (CanvasGroup imageCanvasGroup, bool doRestart, AudioSource audioSource)
     {
-        if (!m_HasAudioPlayed)
-        {
-            audioSource.Play();
-            m_HasAudioPlayed = true;
-        }
-            
-        m_Timer += Time.deltaTime;
-        imageCanvasGroup.alpha = m_Timer / fadeDuration;
-
-        if (m_Timer > fadeDuration + displayImageDuration)
-        {
-            if (doRestart)
-            {
-                SceneManager.LoadScene (0);
-            }
-            else
-            {
-                Application.Quit ();
-            }
-        }
+        SceneManager.LoadScene (0);
     }
 
     
