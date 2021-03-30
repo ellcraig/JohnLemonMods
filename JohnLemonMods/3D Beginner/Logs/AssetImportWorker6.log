@@ -126,3 +126,83 @@ Received Import Request.
 Start importing Assets/Materials/New Material/Floor.mat using Guid(e8bc104a014ae46bc8f7707915021a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad39995a251f9e0e8561ba623f87b927') in 0.029187 seconds
   Import took 0.033987 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 33.984289 seconds.
+  path: Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_albedo.tif
+  artifactKey: Guid(13b28d91d3b6142e7b79a5669412c87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_albedo.tif using Guid(13b28d91d3b6142e7b79a5669412c87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d13101a4b3b87fbb992a181b27f155') in 0.016793 seconds
+  Import took 0.021351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_roughness.tif
+  artifactKey: Guid(cc864610bd20e4a3d97a6d1378f569ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_roughness.tif using Guid(cc864610bd20e4a3d97a6d1378f569ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f408f9b62d35da59ecf3f8130267f78d') in 0.017092 seconds
+  Import took 0.021402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_normal.tif
+  artifactKey: Guid(6d2f7d58da5fb489bb3512f197edf2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_normal.tif using Guid(6d2f7d58da5fb489bb3512f197edf2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af2d0335aa50a2df3859471c1d6dc76') in 0.011764 seconds
+  Import took 0.015711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_ao.tif
+  artifactKey: Guid(93b814861f756469aa6890d1b986b182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_ao.tif using Guid(93b814861f756469aa6890d1b986b182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7714a49dfac39fa1ffab8c1d1d9cb714') in 0.008850 seconds
+  Import took 0.012504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_height.tif
+  artifactKey: Guid(a8006e523acd7466bbba7a685f3df655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Materials/Wall/TexturesCom_Wood_WallTrim_1K_height.tif using Guid(a8006e523acd7466bbba7a685f3df655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef43bfb55f9d9936c26ffcc90f6e61bc') in 0.016759 seconds
+  Import took 0.020996 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 240.2 MB.
+System memory in use after: 240.2 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2495.
+Total: 3.268730 ms (FindLiveObjects: 0.310204 ms CreateObjectMapping: 0.117296 ms MarkObjects: 2.721597 ms  DeleteObjects: 0.117686 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.389904 seconds.
+  path: Assets/Materials/New Material/Wall.mat
+  artifactKey: Guid(4cb1e59231a04493dba3705803e3ce18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material/Wall.mat using Guid(4cb1e59231a04493dba3705803e3ce18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630137d588a7b74e4241e92f7df9888d') in 0.289348 seconds
+  Import took 0.293988 seconds .
+
