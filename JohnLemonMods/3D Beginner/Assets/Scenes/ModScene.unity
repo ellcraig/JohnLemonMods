@@ -5702,8 +5702,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.51290494, g: 0.7825205, b: 0.9622642, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.7228996, g: 0.82780796, b: 0.8962264, a: 1}
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
@@ -69276,7 +69276,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906302721}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -5, y: 1, z: -2}
+  m_LocalPosition: {x: -5, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -69795,7 +69795,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: 9, y: 5.6568537, z: -28.656855}
+  m_LocalPosition: {x: 10, y: 5.6568537, z: -30.806854}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -72063,7 +72063,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117791438}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: 9, y: 5.6568537, z: -28.656855}
+  m_LocalPosition: {x: 10, y: 5.6568537, z: -30.806854}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1073102298}
@@ -80877,7 +80877,7 @@ PrefabInstance:
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
@@ -80887,7 +80887,7 @@ PrefabInstance:
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -23
+      value: -25
       objectReference: {fileID: 0}
     - target: {fileID: 6499588788738613252, guid: c80836a5e73664b589b50e1c236b12e0,
         type: 3}
