@@ -12,15 +12,11 @@ public class Timer : MonoBehaviour
     public float fadeDuration = 1f;
     public float displayImageDuration = 1f;
     public GameObject player;
-    public CanvasGroup exitBackgroundImageCanvasGroup;
-    public AudioSource exitAudio;
-    public CanvasGroup caughtBackgroundImageCanvasGroup;
-    public AudioSource caughtAudio;
 
-    bool m_IsPlayerAtExit;
-    bool m_IsPlayerCaught;
+//Vestiges of a Failed
+
     float m_Timer;
-    bool m_HasAudioPlayed;
+
 
     private void Start()
     {
@@ -42,11 +38,11 @@ public class Timer : MonoBehaviour
                 Debug.Log("Time has run out! Try Again!");
                 timeRemaining = 0;
                 timerIsRunning = false;
-                EndLevel (exitBackgroundImageCanvasGroup, false, exitAudio);
+                EndLevel ();
             }
         }
     }
-    void EndLevel (CanvasGroup imageCanvasGroup, bool doRestart, AudioSource audioSource)
+    void EndLevel ()
     {
         SceneManager.LoadScene (0);
     }
