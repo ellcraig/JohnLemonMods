@@ -50,7 +50,10 @@ public class PlayerMovement : MonoBehaviour
 
     void OnAnimatorMove ()
     {
-        m_Rigidbody.MovePosition (m_Rigidbody.position + m_Movement * m_Animator.deltaPosition.magnitude * 2);
+        if (Input.GetKey (KeyCode.Space))
+            m_Rigidbody.MovePosition (m_Rigidbody.position + m_Movement * m_Animator.deltaPosition.magnitude * 2);
+        else
+            m_Rigidbody.MovePosition (m_Rigidbody.position + m_Movement * m_Animator.deltaPosition.magnitude);
         m_Rigidbody.MoveRotation (m_Rotation);
     }
 }
