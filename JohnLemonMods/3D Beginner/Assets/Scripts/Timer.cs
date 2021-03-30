@@ -13,7 +13,6 @@ public class Timer : MonoBehaviour
     public float displayImageDuration = 1f;
     public GameObject player;
 
-//Vestiges of a Failed
 
     float m_Timer;
 
